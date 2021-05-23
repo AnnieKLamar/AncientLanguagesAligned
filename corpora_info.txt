@@ -1,0 +1,5 @@
+Text alignment was done manually by Annie K. Lamar.
+
+The following changes were made to the texts used in this corpora:
+-slight adjustments were made for the sake of alignment, including small translations by myself. For example, if a translator neglected to translate "ναί." I added a line "Yes."
+occasionally small numbers of lines (1-5 lines) were deleted if it appeared the translator had skipped them or heavily paraphrased or summarized.

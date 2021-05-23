@@ -1,0 +1,51 @@
+Instructions
+1. Make sure that every line of Greek/Latin matches the same line number in English.
+These lines could be sentences, speakers' names, or empty lines- they just have to match perfectly.
+
+  OKAY:
+    -split in the middle of a sentence in between distinct phrases, or on semi-colons
+    Example:
+    Kathryn and I went to the movies, and then we went to the mall.
+    -->
+    Kathryn and I went to the movies,
+    and then we went to the mall. (<-- even in Greek/Latin, this is a complete phrase, and no grammar is dependent on the first line)
+
+  NOT OKAY:
+    -split in the middle of a sentence such that one line does not make sense without the other.
+    Example:
+      Kathryn and I went to the movies and to the mall.
+      -->
+      Kathryn and I went to the movies
+      and to the mall. (<-- In Greek/Latin, the computer has no idea why this fragment is accusative.)
+
+2. Delete any citations. (Inputted by editor)
+  Example: And then I said, "Ego volo credere." Julius Proclus. Before Times. Part 5.
+           -->
+           And then I said, "Ego volo credere."
+
+3. Delete any English notes or text added to the Greek/Latin by the editor.
+***This is particulary important in the Latin text***
+
+4. Sometimes things won't align. For example, a translator paraphrased heavily or added extra sets of back-and-forth-dialogue.
+You can move things onto new lines or combine two lines into one - it's fine as long as things line up.
+Because of the way the sentences were split, sometimes a quote might begin on one line and end on another.
+You can decide whether to combine them or let them be based on how the Greek is phrased.
+It's okay to delete lines from either text in this case in order to make the texts align.
+This won't happen very often- I've deleted two lines in 5,000 lines of alignment.
+
+5. You can safely ignore:
+-Quotation marks.
+-empty lines (as long as both files have empty lines in the same places)
+-names of speakers
+-bracketed section labels (NOTE: anything in brackets will be deleted)
+-double spaces or spaces at the end of sentences (any extra white space)
+
+SOMETHING BROKE, WHAT DO I DO?
+-"My Greek text looks like WingDings!"
+  Edit --> Select Encoding --> UTF-16 LE
+
+-"I hate these colors!"
+  File --> Settings --> Themes
+
+-"Something is very clearly wrong with the file. I think maybe a text is missing."
+ Copy what you have aligned into a new text (.txt) file and save. Let me know.
